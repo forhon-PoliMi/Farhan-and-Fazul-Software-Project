@@ -1,0 +1,132 @@
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.exe.config
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.exe
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.pdb
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.csprojResolveAssemblyReference.cache
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AddEmployee.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AddInventoryItem.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Admin.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AdminFunctions.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.DeleteORViewCustomer.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.DeleteOrViewProduct.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Form1.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GenerateSaleReport.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Properties.Resources.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateAddress.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateCustomer.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateEmployee.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateProduct.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewOrDeleteEmployee.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.csproj.GenerateResource.Cache
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.exe
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.pdb
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\Employee.mdf
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\Employee_log.ldf
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GenerateBill.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UserLogin.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.CashierFunctions.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateBill.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPump.mdf
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPump_log.ldf
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewBill.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewCustomers.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewEmployeesInfo.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewInventory.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewProducts.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewPurchase.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewSales.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewAddress.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Form2.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.SearchAddress.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.updateProductInInventory.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GeneratePurchaseReport.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewPurchaseReport.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AdminFunctionality.resources
+C:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewProfitAndLoss.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.exe.config
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.exe
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.pdb
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\Employee.mdf
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\Employee_log.ldf
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPump.mdf
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPump_log.ldf
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.exe
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.pdb
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.csprojResolveAssemblyReference.cache
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AddEmployee.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AddInventoryItem.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Admin.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AdminFunctionality.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AdminFunctions.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.CashierFunctions.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.DeleteORViewCustomer.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.DeleteOrViewProduct.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Form1.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Form2.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GeneratePurchaseReport.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GenerateSaleReport.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Properties.Resources.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.SearchAddress.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateAddress.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateBill.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateCustomer.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateEmployee.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateProduct.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GenerateBill.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.updateProductInInventory.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UserLogin.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewAddress.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewBill.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewCustomers.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewEmployeesInfo.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewInventory.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewOrDeleteEmployee.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewProducts.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewProfitAndLoss.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewPurchase.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewPurchaseReport.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewSales.resources
+E:\PUCIT\4th sem\DBS\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.csproj.GenerateResource.Cache
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\Employee.mdf
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\Employee_log.ldf
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPump.mdf
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPump_log.ldf
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.exe.config
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.exe
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\bin\Debug\PetrolPumpMGSystem.pdb
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.csprojAssemblyReference.cache
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AddEmployee.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AddInventoryItem.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Admin.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AdminFunctionality.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.AdminFunctions.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.CashierFunctions.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.DeleteORViewCustomer.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.DeleteOrViewProduct.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Form1.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Form2.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GeneratePurchaseReport.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GenerateSaleReport.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.Properties.Resources.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.SearchAddress.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateAddress.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateBill.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateCustomer.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateEmployee.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UpdateProduct.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.GenerateBill.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.updateProductInInventory.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.UserLogin.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewAddress.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewBill.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewCustomers.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewEmployeesInfo.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewInventory.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewOrDeleteEmployee.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewProducts.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewProfitAndLoss.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewPurchase.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewPurchaseReport.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.ViewSales.resources
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.csproj.GenerateResource.cache
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.exe
+E:\Masters - Polimi\Semester 4\Software Engineering for Automation\PetrolPumpMGSystem\PetrolPumpMGSystem\PetrolPumpMGSystem\obj\Debug\PetrolPumpMGSystem.pdb
